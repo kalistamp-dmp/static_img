@@ -1,3 +1,20 @@
+CANCELED
+
+We regret to inform you that we have cancelled your recent order due to a medium risk of fraud detected during our verification process.
+
+-Some characteristics of this order are similar to fraudulent orders observed in the past
+-Location of IP address used to place the order is Citrus Heights, California, United States
+-Billing street address doesn't match credit card's registered address
+-Billing address ZIP or postal code doesn't match credit card's registered address
+
+
+
+
+
+
+***
+
+
 LOOP TESTED - ROD
 
 
